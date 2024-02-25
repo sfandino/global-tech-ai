@@ -1,13 +1,11 @@
-Welcome to Lumache's documentation!
-===================================
+Banking Project 
+================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This project contains the documentation and solution of a Homework Assesment 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+It referes to a hypothetical use case and it should not bring to production.
+
+Check out the :doc:`introduction` section for reading the main material.
 
 .. note::
 
@@ -18,5 +16,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   introduction
+   
